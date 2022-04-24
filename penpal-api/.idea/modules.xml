@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/smpe-admin.iml" filepath="$PROJECT_DIR$/smpe-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smpe-common/smpe-common.iml" filepath="$PROJECT_DIR$/smpe-common/smpe-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smpe-log/smpe-log.iml" filepath="$PROJECT_DIR$/smpe-log/smpe-log.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smpe-system/smpe-system.iml" filepath="$PROJECT_DIR$/smpe-system/smpe-system.iml" />
+    </modules>
+  </component>
+</project>
